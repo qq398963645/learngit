@@ -1,19 +1,15 @@
 git is a distributed version control system
 git is free sofware distributed under the GPL
 Git has a mutable index called stage.
-<<<<<<< HEAD
-
+
 create a new branch is quick AND simple
 
 create a new branch is quick AND simple
 
 this  is about bug 
-=======
-
-create a new branch is quick AND simple
-
-create a new branch is quick AND simple
 
 bug is noting
 
->>>>>>> master
+my work is success
+
+
